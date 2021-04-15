@@ -12,6 +12,6 @@ Live Demo -
 
 Some views ... 
 
-![alt text](https://github.com/niteshsh4rma/google-search-clone/blob/main/screenshots/home-view.jpg)
-![alt text](https://github.com/niteshsh4rma/google-search-clone/blob/main/screenshots/mobile-view.jpg)
-![alt text](https://github.com/niteshsh4rma/google-search-clone/blob/main/screenshots/search-view.jpg)
+![alt text](https://github.com/niteshsh4rma/google-search-clone/blob/main/screenshots/home-view.JPG)
+![alt text](https://github.com/niteshsh4rma/google-search-clone/blob/main/screenshots/mobile-view.JPG)
+![alt text](https://github.com/niteshsh4rma/google-search-clone/blob/main/screenshots/search-view.JPG)
